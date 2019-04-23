@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 /**
- * <h1>KARTICKY S ULOHAMI  </h1>
+ * <h1>KARTICKY S ULOHAMI</h1>
  * Tato trieda zabezpecuje herny obsah stiahnuty zo vzdialenej db
  * priamo do suborov - (potom nie je pripojenie na internet potrebne).
  * 
