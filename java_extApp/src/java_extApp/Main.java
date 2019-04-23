@@ -28,7 +28,7 @@ import java.util.Scanner;
 * @since Spring-2019
 */
 public class Main extends Cards {
-	static int[] pocetHracov = new int[3];
+	static int[] pocetHracov = new int[4];
 	/**
 	 * <h1>MAIN</h1>
 	 * V hlavnom tele programu je interakcia so zvolenym poctom hracov.
