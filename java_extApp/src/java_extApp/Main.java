@@ -1,5 +1,5 @@
 package java_extApp;
-
+ 
 import java.util.Scanner;
 /**
 * <h1>K.D.ExtensionApp</h1>
