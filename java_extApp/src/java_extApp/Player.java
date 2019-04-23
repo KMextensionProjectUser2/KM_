@@ -1,5 +1,4 @@
 package java_extApp;
-
 /**
  * <h1>DEFINICIA UCHADZACA</h1>
  * Tato trieda reprezentuje herne vlastnosti kazdeho hraca.
